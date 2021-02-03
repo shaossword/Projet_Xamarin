@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GoStyle.ListPromo">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal">
+                <Button 
+                x:Name="BtnPreviousPage" 
+                Text="Previous" 
+                VerticalOptions="Start" 
+                HorizontalOptions="Start"
+                CornerRadius="25"
+                ImageSource=""
+                Clicked="OnClickPreviousPage"
+                />
+                <Button
+                    x:Name="BtnQRCode"
+                    Text="QRcode"
+                    VerticalOptions="Start"
+                    HorizontalOptions="EndAndExpand"
+                    CornerRadius="25"
+                    Clicked="OnClickQRCode"
+                    />
+            </StackLayout>
+
+            <Label x:Name="LbldateDuJour" Text="Date" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

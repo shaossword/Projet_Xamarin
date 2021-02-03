@@ -1,0 +1,17 @@
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\bin\Debug\netstandard2.0\GoStyle.deps.json
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\bin\Debug\netstandard2.0\GoStyle.dll
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\bin\Debug\netstandard2.0\ref\GoStyle.dll
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\bin\Debug\netstandard2.0\GoStyle.pdb
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\ListPromo.xaml.g.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.dll
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\ref\GoStyle.dll
+C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle\obj\Debug\netstandard2.0\GoStyle.pdb
