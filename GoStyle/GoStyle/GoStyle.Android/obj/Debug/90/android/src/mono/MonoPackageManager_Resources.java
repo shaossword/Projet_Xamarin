@@ -3,11 +3,8 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "GoStyle.Android.dll" comes first in this list. */
 		"GoStyle.Android.dll",
-		"Autofac.dll",
-		"FastAndroidCamera.dll",
 		"FormsViewGroup.dll",
 		"GoStyle.dll",
-		"System.Diagnostics.DiagnosticSource.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
@@ -50,11 +47,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"ZXing.Net.Mobile.Core.dll",
-		"ZXing.Net.Mobile.Forms.Android.dll",
-		"ZXing.Net.Mobile.Forms.dll",
-		"zxing.portable.dll",
-		"ZXingNetMobile.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

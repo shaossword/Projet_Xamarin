@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E0BB857E-09AA-4479-BF9A-CA9704C05FC0}</ProjectGuid>
+    <ProjectGuid>{65E388CD-132B-4B32-ADD8-AA204ECBFA88}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -129,7 +129,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\GoStyle\GoStyle.csproj">
-      <Project>{5BD9D2FB-4992-43E8-86E2-0E4F4BD28A76}</Project>
+      <Project>{6E7D2AF3-B321-455F-BC44-6FA34B0D2FF8}</Project>
       <Name>GoStyle</Name>
     </ProjectReference>
   </ItemGroup>

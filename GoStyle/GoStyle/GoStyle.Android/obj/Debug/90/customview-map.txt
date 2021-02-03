@@ -28,15 +28,12 @@ external-path;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
-FrameLayout;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\42\jl\res\layout\zxingscanneractivitylayout.xml
-FrameLayout;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\42\jl\res\layout\zxingscannerfragmentlayout.xml
 item;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
 LinearLayout;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
 paths;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
 resources;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
 resources;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
-resources;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\43\jl\res\values\strings.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
 set;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
@@ -44,7 +41,6 @@ set;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\o
 set;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
 set;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
 string;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
-string;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\43\jl\res\values\strings.xml
 style;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
 translate;C:\Users\nicol\source\repos\Projet_Xamarin\GoStyle\GoStyle\GoStyle.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml

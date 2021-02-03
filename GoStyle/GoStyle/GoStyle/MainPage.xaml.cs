@@ -14,27 +14,5 @@ namespace GoStyle
         {
             InitializeComponent();
         }
-
-        private async void OnClickListPromo(object sender, EventArgs e)
-        {
-            Button button = (Button)sender;
-            button.Text = "PROMO";
-
-            var dateDuJour = DateTime.Now.ToString("F");
-
-            await Navigation.PushAsync(new ListPromo(dateDuJour));
-        }
-
-        private void OnPressListPromo(object sender, EventArgs e)
-        {
-            Button button = (Button)sender;
-            BtnListPromo.BackgroundColor = Color.LightBlue;
-        }
-
-        private void OnReleaseListPromo(object sender, EventArgs e)
-        {
-            Button button = (Button)sender;
-            BtnListPromo.BackgroundColor = Color.FromHex("#2196F3");
-        }
     }
 }

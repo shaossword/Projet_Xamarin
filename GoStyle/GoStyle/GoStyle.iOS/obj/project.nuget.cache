@@ -1,42 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pLIbY0fZ9UUzpRoRAxdK8MA7ZTzkya2PDuisnW/L6t+hO1mi9BAwtYCHBVGNv+eTH0d98YQMep8OVherttEyiQ==",
+  "dgSpecHash": "uoXxCu3lEI9RwSq2tYq//dBX3wWqlaJraNOwE9Lq0BYS4T8Xw4GuZLEG5H9hmpccYTsuSxCpI3TZLC5/8wZJiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nicol\\source\\repos\\Projet_Xamarin\\GoStyle\\GoStyle\\GoStyle.iOS\\GoStyle.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nicol\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\nicol\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
-    "C:\\Users\\nicol\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
-    "C:\\Users\\nicol\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Passage à une version antérieure du package détecté : Xamarin.Essentials de 1.6.1 à 1.5.3.2. Référencez le package directement à partir du projet pour sélectionner une version différente. \r\n GoStyle.iOS -> GoStyle -> Xamarin.Essentials (>= 1.6.1) \r\n GoStyle.iOS -> Xamarin.Essentials (>= 1.5.3.2)",
-      "libraryId": "Xamarin.Essentials",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Passage à une version antérieure du package détecté : Xamarin.Forms de 5.0.0.1931 à 4.8.0.1451. Référencez le package directement à partir du projet pour sélectionner une version différente. \r\n GoStyle.iOS -> GoStyle -> Xamarin.Forms (>= 5.0.0.1931) \r\n GoStyle.iOS -> Xamarin.Forms (>= 4.8.0.1451)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  "logs": []
 }
